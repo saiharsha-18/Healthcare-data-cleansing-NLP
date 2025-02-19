@@ -5,8 +5,11 @@ This project focuses on automating the data cleansing process in healthcare reco
 
 ## Dataset
 Name: healthcare_dataset.csv
+
 Source : Kaggle
+
 Description: The dataset consists of healthcare records with various inconsistencies such as missing values, duplicate entries, and incorrect formats. It is used to train and evaluate our NLP-based data cleansing model.
+
 
 ## Training Notebook
 Notebook Name: NLP.ipynb
