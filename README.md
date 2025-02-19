@@ -15,17 +15,25 @@ Details: The dataset has been preprocessed, trained, and evaluated in the Jupyte
 
 The notebook contains:
 Data loading and preprocessing steps
+
 NLP-based cleansing techniques
+
 Model training and validation
+
 Performance analysis and results
 
 ## Features
 Automated data cleansing using NLP techniques
+
 Handling missing, inconsistent, and duplicate records
+
 Improving data quality for downstream healthcare analytics
 
 ## Contributors
 S Sai Harshavardhana
+
 Naresh N
+
 Sharath Kumar A 
+
 Tejas M S
